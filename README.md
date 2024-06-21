@@ -9,6 +9,13 @@ Michał Urbansky 117141
 
 https://github.com/FlinkerWH/Recipe_Finder_PFJS
 
+
+REPOZYTORIUM ŹRÓDŁOWE:
+
+https://github.com/FlinkerWH/receptury
+
+VERCAL:
+
 https://receptury-michal-urbanskys-projects.vercel.app/
 
 
