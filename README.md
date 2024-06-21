@@ -3,7 +3,9 @@ PFJS – Popularne frameworki Java Script, semestr VI
 Projekt Recipe Finder
 Piotr Pawlak 157852
 Michał Urbansky 117141
-https://github.com/FlinkerWH/receptury
+https://github.com/FlinkerWH/Recipe_Finder_PFJS
+https://receptury-michal-urbanskys-projects.vercel.app/
+
 
 DOKUMENTACJA:
 1. React
